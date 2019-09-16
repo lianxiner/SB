@@ -17,7 +17,7 @@
                 text-align: center;
                 line-height:33px;
                 float: left;
-                background: url(image/button1.jpg) 0 0 no-repeat;
+                background: url(button1.jpg) 0 0 no-repeat;
             }
     </style>
 </head>
@@ -25,7 +25,7 @@
     <table cellspacing="0">
         <tr>
         <td colspan="2" style="height:120px;">
-            <img src="image/banner.jpg" />
+            <img src="banner.jpg" />
             <tr>
                 <td colspan="2" style="height:33px;">
                     <ul>
